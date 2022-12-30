@@ -3,7 +3,7 @@
 <strong>❯❯:zap: Challenge:</strong>
 - Create a clone from [DIO site](https://www.dio.me/sign-up) register screen with Typescript  
 
-<strong>❯❯:compass: Goal:</strong>
+<strong>❯❯:compass: Description:</strong>
 - Apply all concepts learned during Javascript, React and Typescript courses.
 
 <strong>❯❯:hammer_and_wrench: Languages & Tools:</strong>
